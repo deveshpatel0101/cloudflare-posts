@@ -1,0 +1,12 @@
+name = "sample-workspace"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-11-16"
+
+kv_namespaces = [
+        { binding = "sample_kv", preview_id = "4b1870f0b8034498909f1be059fcc3c7", id = "4b1870f0b8034498909f1be059fcc3c7" }
+]

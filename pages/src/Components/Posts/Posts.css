@@ -1,0 +1,11 @@
+.Posts-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Posts-Container .Post-Container {
+  width: 100%;
+  max-width: 300px;
+}
