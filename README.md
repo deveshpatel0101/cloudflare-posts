@@ -1,0 +1,3 @@
+1. jwt_jam/ folder contains the go code for systems assignment. Copy this folder to your go workspace directory and run `go run main.go` to start the server.
+2. pages/ folder contains the frontend part of the application. Run `npm run start` to run the frontend on localhost server.
+3. workers/sample-workspace folder contains the code for cloudflare workers. This is the code which runs on backend providing access to KV store via API.
